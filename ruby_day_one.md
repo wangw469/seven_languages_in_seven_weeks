@@ -6,7 +6,7 @@
 * [Information about Ruby’s ranges](https://ruby-doc.org/core-2.2.0/Range.html)
 
 # Do
-* Print the string “Hello, world.”
+* [Print the string “Hello, world.”](hello_world.rb)
 * For the string “Hello, Ruby,” find the index of the word “Ruby.”
 * Print your name ten times.
 * Print the string “This is sentence number 1,” where the number 1 changes from 1 to 10.
