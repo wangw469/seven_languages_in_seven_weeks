@@ -1,9 +1,9 @@
 # Find
-* The Ruby API
-* The free online version of Programming Ruby: The Pragmatic Pro- grammer’s Guide [TFH08]
-* A method that substitutes part of a string
-* Information about Ruby’s regular expressions
-* Information about Ruby’s ranges
+* [The Ruby API](https://ruby-doc.org/core-2.5.0/)
+* [The free online version of Programming Ruby: The Pragmatic Pro- grammer’s Guide [TFH08]](https://ruby-doc.com/docs/ProgrammingRuby/)
+* [A method that substitutes part of a string](https://ruby-doc.org/core-2.5.0/String.html#method-i-sub)
+* [Information about Ruby’s regular expressions](https://ruby-doc.org/core-2.5.0/Regexp.html)
+* [Information about Ruby’s ranges](https://ruby-doc.org/core-2.2.0/Range.html)
 
 # Do
 * Print the string “Hello, world.”
