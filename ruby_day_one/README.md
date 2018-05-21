@@ -13,3 +13,6 @@
 * Run a Ruby program from a file. (ruby FILE_NAME.rb)
 * [Bonus problem: If you’re feeling the need for a little more, write a program that picks a random number. Let a player guess the number, telling the player whether the guess is too low or too high.
 (Hint: rand(10) will generate a random number from 0 to 9, and gets will read a string from the keyboard that you can translate to an integer.)](ruby_bouns_day_one.rb)
+
+# Others' Answers
+[Ben Nadel](https://gist.github.com/bennadel/9760322#file-code-7-txt)
