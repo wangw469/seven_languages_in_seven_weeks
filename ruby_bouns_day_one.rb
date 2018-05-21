@@ -37,14 +37,15 @@ def numberToGuess
     return $number_to_guss
 end
 
-def isNumber(string)
-    # TODO
-    return true
+def isNumberOnly(string)
+    # https://ruby-doc.org/core-2.2.0/Regexp.html
+    # https://ruby-doc.org/core-2.1.0/Regexp.html#method-i-3D-3D-3D
+    return /^\d+$/ === string
 end
 
 def getUserGuess
     inputString = gets()
-    if (nil == inputString || false == isNumber(inputString)) then
+    if (nil == inputString || false == isNumberOnly(inputString)) then
         return -1
     else
         return inputString.to_i()
