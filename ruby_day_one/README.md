@@ -18,6 +18,6 @@
 * [Ben Nadel](https://gist.github.com/bennadel/9760322#file-code-7-txt)
 * [taw](https://github.com/taw/7-languages-in-7-weeks/blob/master/1_ruby/day1.rb)
 
-# Related artiles
+# Related articles
 * [Kernel Panic 14: Type System](https://kernelpanic.fm/14)
 * [Type system(wikipedia)](https://en.wikipedia.org/wiki/Type_system)
